@@ -7,7 +7,7 @@ This gem integrates [Plupload](http://www.plupload.com/) with Rails. It's been t
 Install
 --
 
-Just add it got your Gemfile:
+Just add it to your Gemfile:
 
 ```ruby
 gem 'plupload-rails'
